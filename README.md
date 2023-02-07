@@ -1,4 +1,4 @@
-• 👋 Hi, I’m Junior Vasconcelos.
+• --> 👋 Hi, I’m Junior Vasconcelos.
 
 • 👀 I’m interested in Software Developer.
 
